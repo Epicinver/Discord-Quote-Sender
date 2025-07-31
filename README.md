@@ -6,7 +6,7 @@
 <details>
   <summary><strong>💭 How does this work?</strong></summary>
   <ul>
-    <li>Edit the Webhook URL in <code>source/quotesender.py</code></li>
+    <li>Edit the Webhook URL in <a href="https://github.com/Epicinver/Discord-Quote-Sender/blob/main/source/quotesender.py"><code>source/quotesender.py</code></a></li>
     <li>Customize your quotes</li>
     <li>The sender runs in a loop and dispatches quotes at timed intervals</li>
     <li>You can tweak the timer duration</li>
@@ -17,9 +17,9 @@
 <details>
   <summary><strong>🚀 How do I run this?</strong></summary>
   <ul>
-    <li>Download the files in the <code>source/</code> folder</li>
-    <li>Make sure Python is installed (plus any dependencies!)</li>
-    <li>Run it locally, or deploy to a cloud service for eternal quote spam</li>
+    <li>Download the files in <a href="https://github.com/Epicinver/Discord-Quote-Sender/blob/main/source/"><code>source/</code></a></li>
+    <li>Make sure <a href="https://python.org"><code>Python</code></a> is installed (plus any <a href="https://github.com/Epicinver/Discord-Quote-Sender/blob/main/source/requirements.txt"><code>dependencies</code></a>)</li>
+    <li>Run it locally, or deploy to a <a href="https://aws.amazon.com/"><code>cloud service</code></a> for eternal quote spam</li>
   </ul>
 </details>
 
