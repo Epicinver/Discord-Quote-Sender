@@ -7,6 +7,11 @@
   It sends the quotes in a loop to that webhook, with a timer.
   The timer can be customized.
   When it's closed, the loop will end.
+</details>
+
+
+
+<details>
   <summary>How do i run this?</summary>
   Download the file in source [the folder!], run it (with python and with all the modules installed!), and wait.
   You can put it on a cloud service for 24/7 hosting.
