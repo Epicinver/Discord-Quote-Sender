@@ -1,5 +1,7 @@
 <h1 align="center">Discord Quote Sender</h1>
-<a align="center">Below are the info you need.</a>
+<a align="center">Below are some stuff you will need :)</a>
+
+-----------------------------------------------------
 
 <details>
   <summary>How does this work?</summary>
