@@ -1,4 +1,4 @@
-<p align="center"># Discord Quote Sender</p>
+<h1 align="center">Discord Quote Sender</h1>
 
 
 <details>
