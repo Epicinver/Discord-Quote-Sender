@@ -6,9 +6,9 @@
 <details>
   <summary><strong>💭 How does this work?</strong></summary>
   <ul>
-    <li>Edit the Webhook URL in <a href="https://github.com/Epicinver/Discord-Quote-Sender/blob/main/source/quotesender.py"><code>source/quotesender.py</code></a></li>
-    <li>Customize your quotes</li>
-    <li>The sender runs in a loop and dispatches quotes at timed intervals</li>
+    <li>You have to edit the Webhook URL in <a href="https://github.com/Epicinver/Discord-Quote-Sender/blob/main/source/quotesender.py"><code>source/quotesender.py</code></a></li>
+    <li>You customize your quotes</li>
+    <li>The sender runs in a loop to the webhook and dispatches quotes at timed intervals</li>
     <li>You can tweak the timer duration</li>
     <li>Closing the sender stops the loop</li>
   </ul>
