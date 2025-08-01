@@ -32,6 +32,6 @@ def send_quote():
 
 while True:
     send_quote()
-    time.sleep(500)  # 8 minutes, but 30 (1800 seconds) is reccomended. 
+    time.sleep(500)  # 8 minutes
 
 # Change the WebhookURL, and change the quotes if you want to.
