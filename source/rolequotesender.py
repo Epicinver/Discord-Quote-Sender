@@ -1,5 +1,5 @@
 # this one pings a role b4 the embed
-# change the __'s in "<@&__>" and replace it with your role ID
+# replace the __'s in "<@&__>" with your role ID [can be found if you go into role settings, right click, copy Role ID (dev mode only on Discord PC)]
 # thanks
 
 import time
@@ -41,3 +41,4 @@ def send_quote():
 while True:
     send_quote()
     time.sleep(800)  # 13 minutes 20 seconds
+
