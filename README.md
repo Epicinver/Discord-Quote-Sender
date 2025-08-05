@@ -3,6 +3,8 @@
 
 ---
 
+![Discord Quote Sender](path/to/image.png)
+
 <details>
   <summary><strong>💭 How does this work?</strong></summary>
   <ul>
