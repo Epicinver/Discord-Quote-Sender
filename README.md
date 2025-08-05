@@ -1,9 +1,9 @@
 <h1 align="center">Discord Quote Sender</h1>
 <p align="center">Below are some stuff you will need :)</p>
 
----
+![Discord Quote Sender](media/icon.png)
 
-![Discord Quote Sender](path/to/image.png)
+---
 
 <details>
   <summary><strong>💭 How does this work?</strong></summary>
