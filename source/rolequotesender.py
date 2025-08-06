@@ -40,5 +40,5 @@ def send_quote():
 
 while True:
     send_quote()
-    time.sleep(800)  # 13 minutes 20 seconds
+    time.sleep(800)  # something idk
 
