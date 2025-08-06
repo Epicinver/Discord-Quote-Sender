@@ -9,7 +9,7 @@ quotes = [
     "Let there be [Python](https://python.org), let there be [Visual Basic](https://visualstudio.com), let there be EVERYTHING",
     "uwu",
     "He said: push to main, and [GitHub](https://github.com/) approved.",
-    "Ohio skibidi :3"
+    "Made by Epicinver on GitHub, please support me <3"
 ]
 
 def send_quote():
